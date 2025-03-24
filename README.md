@@ -2,7 +2,7 @@
 
 _Full-stack LLM application with OpenAI, Flask, React, and Pinecone to help farmers_
 
-![WhatsApp Image 2024-02-10 at 5 43 27 AM](https://github-production-user-asset-6210df.s3.amazonaws.com/99467488/303893192-14bcc58a-62ff-4c84-b7de-1adc846630f2.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250324%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250324T104647Z&X-Amz-Expires=300&X-Amz-Signature=454af7294036db30945919544d4d9d035a394dc35047e5e85fe29759f6ca37af&X-Amz-SignedHeaders=host)
+(https://github-production-user-asset-6210df.s3.amazonaws.com/99467488/303893192-14bcc58a-62ff-4c84-b7de-1adc846630f2.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250324%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250324T104647Z&X-Amz-Expires=300&X-Amz-Signature=454af7294036db30945919544d4d9d035a394dc35047e5e85fe29759f6ca37af&X-Amz-SignedHeaders=host)
 
 ##Architecture of our Krishi Mitra- LLM ChatBot
 <img src="https://i.imgur.com/FqOr8t8.png" witdth="800">
